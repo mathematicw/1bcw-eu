@@ -1,5 +1,5 @@
 # 
-# This script is designed for searching and extracting certain lines from logfiles.
+# This script designed for searching and extracting certain lines from logfiles.
 # It's also useful for searching files which names are unknown.
 
 # To search
